@@ -1,0 +1,19 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: #222;
+    text-align: center;
+}
+
+.reloj{
+    background: linear-gradient(rgb(131, 5, 74),rgb(90, 160, 218));
+    border: 2px solid rgb(61, 0, 0);
+    display: inline-flex;
+    border-radius: 5px;
+}
+
+.reloj div{
+    color: white;
+    padding: 5px 7px;
+    font-size: 20px;
+    font-family: monospace;
+}

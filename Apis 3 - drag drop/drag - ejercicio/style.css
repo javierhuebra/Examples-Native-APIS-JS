@@ -1,0 +1,39 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+
+.texturas{
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    user-select: none;
+}
+
+.texturas div{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 6px;
+    user-select: all;
+}
+
+.texturas div:active{
+    opacity: 0.6;
+}
+.textura1{
+    background: url("textura1.png");
+}
+.textura2{
+    background: url("textura2.png");
+   
+}
+.textura3{
+    background: url("textura3.png");
+}
+
+.zona{
+    margin: 10px;
+    background-color: antiquewhite;
+    height: 300px;
+}
