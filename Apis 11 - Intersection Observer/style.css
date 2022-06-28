@@ -1,0 +1,26 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.caja{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    background-color: blue;
+    margin: 20px auto;
+    color: white;
+    font-size: 26px;
+    border: 10px solid blueviolet;
+}
+.caja2 {
+    background-color: greenyellow;
+    border: 10px solid rgb(42, 82, 49);
+}
+.caja3 {
+    background-color: rgb(0, 17, 73);
+    border: 10px solid rgb(86, 78, 94);
+}
+.caja4 {
+    background-color: rgb(70, 4, 45);
+    border: 10px solid rgb(253, 239, 45);
+}
